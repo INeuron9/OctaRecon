@@ -1,0 +1,7 @@
+detectCMS : 1000 tries (10 used) [whatcms.org]
+WHOISlookup : No limits....yet
+geoip : 1000 tries (5 used) [whoisxmlapi.com]
+nslookup : Unlimited
+ipnetblock : 1000 tries (10 used) [whoisxmlapi.com]
+subdomain : 500 tries (10 used) [whoisxmlapi.com]
+sslinfo : 100 tries (10 used) [whoisxmlapi.com]

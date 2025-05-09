@@ -1,0 +1,12 @@
+Results for domain: nu.edu.pk
+
+Start Time: 2024-10-22 16:55:38.879549
+IP Address: 203.124.44.78
+IP Location: None
+IP Netblock: None
+Detected CMS: None
+Subdomains: None
+WHOIS Info: None
+SSL Info: None
+Emails: None
+Total execution time: 0:00:23.273133
