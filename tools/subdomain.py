@@ -2,7 +2,7 @@ import requests
 
 def get_subdomains(domain_name):
     # API endpoint for subdomains
-    api_key = 'at_UnBYSk7tKVGGGXlaPfxl4lNIJaAds'  # Your API key
+    api_key = 'api_here'  # Your API key
     url = f"https://subdomains.whoisxmlapi.com/api/v1?apiKey={api_key}&domainName={domain_name}"
 
     try:
