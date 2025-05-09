@@ -1,7 +1,7 @@
 import requests
 
 def get_emails(domain):
-    api_key = "e3ca29afd42916f35bd2e154d61c400b"  # Your actual API key
+    api_key = "api here"  # Your actual API key
     """Fetch emails for the given domain."""
     required_headers = {
         'Content-Type': 'application/json',
