@@ -1,7 +1,7 @@
 import requests
 
 def get_ssl_info(domain_name):
-    api_key = "at_UnBYSk7tKVGGGXlaPfxl4lNIJaAds"  # Replace with your actual API key
+    api_key = "api_here"  # Replace with your actual API key
     url = "https://ssl-certificates.whoisxmlapi.com/api/v1"
     params = {
         'apiKey': api_key,
