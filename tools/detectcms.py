@@ -5,7 +5,7 @@ from datetime import datetime
 # Function to scan the given domain using WhatCMS API
 def get_cms(domain):
     # Your WhatCMS API key (replace with your actual API key)
-    API_KEY = 'wour1lxbllibv3s15xiu7jcwkg1q13ckadhzsx1pr7jxityw12kzpu9c97entum6dee0z2'
+    API_KEY = 'put api here'
     # Build the request URL
     api_url = f"https://whatcms.org/API/Tech?key={API_KEY}&url={domain}"
     
