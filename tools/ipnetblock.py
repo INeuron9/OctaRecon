@@ -1,7 +1,7 @@
 import requests
 
 def get_ip_netblock(ip):
-    url = f"https://ip-netblocks.whoisxmlapi.com/api/v2?apiKey=at_UnBYSk7tKVGGGXlaPfxl4lNIJaAds&ip={ip}"
+    url = f"https://ip-netblocks.whoisxmlapi.com/api/v2?apiKey=[api here]&ip={ip}"
     response = requests.get(url)
     results = response.json()
 
