@@ -1,7 +1,7 @@
 import requests
 
 def get_ip_location(ip_address):
-    url = f"https://ip-geolocation.whoisxmlapi.com/api/v1?apiKey=at_UnBYSk7tKVGGGXlaPfxl4lNIJaAds&ipAddress={ip_address}"
+    url = f"https://ip-geolocation.whoisxmlapi.com/api/v1?apiKey=[api_here]&ipAddress={ip_address}"
     response = requests.get(url)
     
     if response.status_code != 200:
